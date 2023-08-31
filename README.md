@@ -7,4 +7,8 @@ To run this project use following command
 npx rtl-book serve roles-notes.js
 ```
 
+```shell
+ npx rtl-book serve query-notes.js
+```
+
 Basically this is the same rtl-book project that was developed in [react-typescript-tutorial-05](https://github.com/dmohindru/react-typescript-tutorial-05)
